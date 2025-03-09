@@ -8,8 +8,8 @@ Sistem Informasi Absensi Siswa adalah aplikasi berbasis web yang dirancang untuk
 
 Aplikasi demo dapat diakses di:
 
--   Portal Admin: [web-absensi.wuaze.com/admin](http://web-absensi.wuaze.com/admin/)
--   Portal Siswa: [web-absensi.wuaze.com/siswa](http://web-absensi.wuaze.com/siswa/)
+-   Portal Admin: [web-absensi.wuaze.com/admin](https://web-absensi.wuaze.com/admin/)
+-   Portal Siswa: [web-absensi.wuaze.com/siswa](https://web-absensi.wuaze.com/siswa/)
 
 **Kredensial Login Admin:**
 
