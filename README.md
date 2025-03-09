@@ -18,7 +18,7 @@ Aplikasi demo dapat diakses di:
 
 **Kredensial Login Siswa:**
 
--   Email: `2024002`
+-   NIS: `2024002`
 -   Password: `siswa_2024002`
 
 ## 🚀 Fitur
